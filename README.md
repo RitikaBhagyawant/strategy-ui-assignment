@@ -24,9 +24,10 @@ Simply open `index.html` in any modern browser.
 
 # Strategy UI Assignment
 
-## Live Demo NETLIFY
-https://soft-faloodeh-1cc642.netlify.app/
+## Live Demo 
+https://ritikabhagyawant.github.io/strategy-ui-assignment/
 
 ## GitHub Repository
 https://github.com/your-username/strategy-ui-assignment
+
 
