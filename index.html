@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Strategy UI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab active" data-view="Bullish">Bullish</button>
+      <button class="tab" data-view="Bearish">Bearish</button>
+      <button class="tab" data-view="Rangebound">Rangebound</button>
+      <button class="tab" data-view="Volatile">Volatile</button>
+    </div>
+
+    <!-- Date Dropdown -->
+    <div class="dropdown">
+      <select id="dateSelect"></select>
+    </div>
+
+    <!-- Strategy Cards -->
+    <div id="cardsContainer" class="cards"></div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="empty hidden"></div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

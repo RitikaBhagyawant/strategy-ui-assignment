@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f5f7fb;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+
+.tab {
+  flex: 1 1 48%;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  background: #eaeaea;
+  border-radius: 6px;
+}
+
+
+.tab.active {
+  background: #2f6df6;
+  color: white;
+}
+
+/* Dropdown */
+.dropdown select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* Cards */
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+/* Empty State */
+.empty {
+  text-align: center;
+  padding: 20px;
+  color: #777;
+}
+
+.hidden {
+  display: none;
+}
