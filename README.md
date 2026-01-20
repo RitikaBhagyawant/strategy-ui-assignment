@@ -21,3 +21,11 @@ This project is a responsive UI built using **HTML, CSS, and Vanilla JavaScript*
 
 ## How to Run
 Simply open `index.html` in any modern browser.
+
+# Strategy UI Assignment
+
+## Live Demo NETLIFY
+https://strategy-ui-assignment.netlify.app
+
+## GitHub Repository
+https://github.com/your-username/strategy-ui-assignment
