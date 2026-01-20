@@ -25,7 +25,8 @@ Simply open `index.html` in any modern browser.
 # Strategy UI Assignment
 
 ## Live Demo NETLIFY
-https://strategy-ui-assignment.netlify.app
+https://soft-faloodeh-1cc642.netlify.app/
 
 ## GitHub Repository
 https://github.com/your-username/strategy-ui-assignment
+
